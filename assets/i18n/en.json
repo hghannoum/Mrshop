@@ -1,0 +1,173 @@
+{
+    "demo": {
+        "title": "Translation demo",
+        "text": "This is a simple demonstration app for ngx-translate"
+    },
+    "blog":{
+        "title":" Our Blog",
+        "text": "Our Blog"
+  
+    },
+    "blogg":{
+        "title":"From business attire to casual clothing to sportswear, Mr.shop sells high-quality apparel for men and youngs.  We Live Without Limits!      We are the bigger-the-better idea people and the up-for-anything instigators. Working hard to improve the world around us, we seek new frontiers to fuel our ingenuity as pioneers.   We invite you to push beyond what is, to what could be in the work you do and the life you choose.",
+        "text":"From business attire to casual clothing to sportswear, Mr.shop sells high-quality apparel for men and youngs.  We Live Without Limits!      We are the bigger-the-better idea people and the up-for-anything instigators. Working hard to improve the world around us, we seek new frontiers to fuel our ingenuity as pioneers.   We invite you to push beyond what is, to what could be in the work you do and the life you choose."
+      
+    },
+    "address":{
+        "title":"Address",
+        "text": "Address"
+  
+    }, "blazer":{
+      "title":"Blazers",
+      "text": "Blazers"
+
+  }, "shirt":{
+   "title":"Shirts",
+   "text": "Shirts"
+
+}, "shoes":{
+   "title":"Shoes",
+   "text": "Shoes"
+
+},  "bigcommerce":{
+   "title":"We’re set up for success now that we’ve moved over to BigCommerce.",
+   "text": "We’re set up for success now that we’ve moved over to BigCommerce."
+
+},  "api":{
+   "title":"BigCommerce’s API has enabled us to build the kind of integrations necessary to create end-to-end operational workflows that might not otherwise have been possible",
+   "text": "BigCommerce’s API has enabled us to build the kind of integrations necessary to create end-to-end operational workflows that might not otherwise have been possible"
+
+}, "teams":{
+   "title":"Here's some of our team's experience",
+   "text": "Here's some of our team's experience"
+
+}, 
+"editor":{
+   "title":"EDITOR'S PICK",
+   "text": "EDITOR'S PICK"
+
+}, "paymentt":{
+   "title":"Payment Details",
+   "text": "Payment Details"
+
+}, "acces":{
+   "title":"Accessories",
+   "text": "Accessories"
+
+},"phone":{
+      "title":"Phone",
+      "text": "Phone"
+
+  },"email":{
+   "title":"Email",
+   "text": "Email"
+
+},"send":{
+   "title":"Send Message",
+   "text": "Send Message"
+
+},"usef":{
+   "title":"Useful Links",
+   "text": "Useful Links"
+
+},"by":{
+   "title":"by",
+   "text": "by"
+
+},"copy":{
+   "title":"Copyright",
+   "text": "Copyright"
+
+},"right":{
+   "title":"All Rights Reserved",
+   "text": "All Rights Reserved"
+
+},"design":{
+   "title":"Designed with",
+   "text": "Designed with"
+
+},"frombus":{
+   "title":"From business attire to casual clothing to sportswear, Mr.shop sells high-quality apparel for men and youngs.",
+   "text": "From business attire to casual clothing to sportswear, Mr.shop sells high-quality apparel for men and youngs."
+
+},"home":{
+        "title":"Home",
+        "text": "Home"
+  
+    },"youcan":{
+      "title":"You can contact us remotely or come to our store",
+      "text": "You can contact us remotely or come to our store"
+
+  },
+    "about":{
+        "title":"About",
+        "text": "About"
+  
+    },
+    "products":{
+        "title":"Products",
+        "text":"Products"
+  
+    },
+    "partners":{
+       "title" :"Partners",
+      "text":"Partners"
+  
+    },
+    "contact":{
+       "title": "Contact",
+       "text": "Contact"
+  
+    },
+    "features":{
+       "title": "Features",
+       "text": "Features"
+  
+    },
+    "help":{
+       "title": "Features",
+       "text": "Helping You To Be More Fashionnable"
+  
+    },
+    "payment":{
+       "title": "Payment Secure",
+       "text": "Payment Secure"
+  
+    },
+    "paym":{
+       "title": "your credit card number, expiry date and cryptogram are encrypted in the transmission",
+       "text": "your credit card number, expiry date and cryptogram are encrypted in the transmission"
+  
+    },
+    "supp":{
+       "title": "You can contact us by email for any help",
+       "text": "You can contact us by email for any help"
+  
+    },
+    "fsupp":{
+       "title": "Friendly Support",
+       "text": "Friendly Support"
+  
+    },
+    "shop":{
+       "title": "Shop now on our website without any delivery charge",
+       "text": "Shop now on our website without any delivery charge"
+  
+    },
+    "free":{
+       "title": "Free Shopping",
+       "text": "Free Shopping"
+  
+    },
+    "14":{
+       "title": "14 Days Easy Return",
+       "text": "14 Days Easy Return"
+  
+    },
+    "14d":{
+       "title": "You have 14 days to return a product you bought on our website ",
+       "text": "You have 14 days to return a product you bought on our website "
+  
+    }
+
+}
